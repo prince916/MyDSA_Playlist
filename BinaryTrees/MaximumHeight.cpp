@@ -14,20 +14,15 @@ struct Node
     }
 };
 
-Node* SearchInBT(Node *root, int key){
-    if( root == NULL ){
-        return NULL;
+int MaxDepth(Node* root){
+    if(root == NULL){
+        return 0;
     }
 
-    if( root->data == key ){
-        return root;
-    }
-    else if( root->data > key){
-        return SearchInBT( root->left,key);
-    }
-    else{
-        return SearchInBT( root->right,key);
-    }
+    int lh = MaxDepth(root->left);
+    int rh = MaxDepth(root->right);
+
+    return (1 + max(lh, rh));
 }
 
 int main()
@@ -39,16 +34,10 @@ int main()
     root->left->right = new Node(3);
     root->right->left = new Node(6);
     root->right->right = new Node(8);
+    root->right->right->left = new Node(12);
 
 
-
-    if( SearchInBT(root,9) == NULL){
-        cout << "The key does not exits" <<endl;
-    }
-    else{
-        cout << "key exits" << endl;
-    }
-    cout << endl;
+    cout << "Maximum height of this tree is : " << MaxDepth(root);
 
     return 0;
 }
