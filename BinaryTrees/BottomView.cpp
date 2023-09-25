@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
+using namespace std;
 
 vector<int> bottomView(TreeNode<int> * root){
-    // Write your code here.
      vector<int>answer;
         if(root==NULL){
             return answer;
