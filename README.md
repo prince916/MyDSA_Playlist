@@ -1,6 +1,8 @@
 # MyDSA_Playlist
 It includes DSA problem sums that i solved.
 
+Some Basic Topics
+
 Topic 1 :- Arrays 
 Topic 2 :- Sorting
 Topic 3 :- Binary Search
