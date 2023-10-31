@@ -1,5 +1,5 @@
 # MyDSA_Playlist Here
-It includes DSA problem sums that i solved.
+It includes DSA problem sums that I solved.
 
 Some Basic Topics
 
