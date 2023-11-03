@@ -3,7 +3,7 @@ It includes DSA problem sums that I solved rrecently.
 Some Basic Topics
 
 Topic 1 :- Arrays 
-Topic 2 :- Sorting
+Topic 2 :- Sorting (Algorithms)
 Topic 3 :- Binary Search
 Topic 4 :- Binary Trees
 Topic 5 :- Binary Search Tree
