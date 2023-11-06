@@ -1,6 +1,6 @@
 It includes DSA problem sums that I solved rrecently.
 
-Some Basic Topics
+Some Basic Topics are Mentioned below
 
 Topic 1 :- Arrays 
 Topic 2 :- Sorting (Algorithms)
