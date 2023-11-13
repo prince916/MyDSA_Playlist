@@ -5,7 +5,7 @@ Some Basic and Important Topics are Mentioned below
 Topic 1 :- Problems on Arrays 
 Topic 2 :- Sorting 
 Topic 3 :- Binary Search
-Topic 4 :- Binary Trees
+Topic 4 :- Binary Trees Basics
 Topic 5 :- Binary Search Tree
 Topic 6 :- Unique Questions
 Topic 7 :- Graph
