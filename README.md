@@ -9,4 +9,4 @@ Topic 4 :- Binary Trees Basics
 Topic 5 :- Binary Search Tree
 Topic 6 :- Unique Questions
 Topic 7 :- Graph
-Topic 8 :- Dyanamic Programming Series
+Topic 8 :- Dyanamic Programming
