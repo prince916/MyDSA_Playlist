@@ -1,7 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-
 struct Node
 {
     int data;
@@ -42,7 +41,6 @@ void preorderPrint(Node* root){
 
 int main()
 {
-
     int arr[] = {10,20,30,40,50};
 
     Node* root = arrayToBST(arr, 0 , 4);
