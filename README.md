@@ -10,6 +10,6 @@ Topic 5 :- Binary Search Tree
 Topic 6 :- Unique Questions
 Topic 7 :- Graph
 Topic 8 :- Dyanamic Programming
-Topic 9 :- New Coming Soon,,
+Topic 9 :- New Coming Soon
 I am back guys.....
-It's being a long time that i haven't updated this repository
+It's being a long time that i haven't updated this repository.
