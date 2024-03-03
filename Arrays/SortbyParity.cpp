@@ -26,7 +26,7 @@ public:
 int main()
 {
     Solution ob;
-    vector<int> nums={3,4,1,2};
+    vector<int> nums={6,7,1,3,5,8};
     vector<int> ans;
     ans = ob.sortArrayByParity(nums);
     cout << "Array after sorting : " << endl;
