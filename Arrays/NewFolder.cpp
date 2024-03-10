@@ -4,6 +4,11 @@ using namespace std;
 
 int main()
 {
-    cout << "Sonali Prasad" << endl;
+    int n;
+    cin>>n;
+    for(int i=0; i<n; i++){
+        cout << "Prince Kumar Sharma" << endl;
+    }
+    
     return 0;
 }
