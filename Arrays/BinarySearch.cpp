@@ -1,8 +1,6 @@
 #include<iostream>
 using namespace std;
 
-
-// hey 
 // checkout 
 
 int binarySearch(int arr[], int n, int key){
