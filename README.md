@@ -10,7 +10,10 @@ Topic 6 :- Binary Search Tree
 Topic 7 :- Unique Questions
 Topic 8 :- Graph
 Topic 9 :- Dyanamic Programming
-Topic 10 :- New Topics Coming Soon
+Topic 10 :- Stack
+Topic 11 :- Queue
+Topic 12 :- Linked List
+
 I am back guys...
 It's being a long time that i haven't updated this repository.
 Now comming to the new era of coding ...
