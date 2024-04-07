@@ -3,6 +3,7 @@ Some Basic and Important Topics are Mentioned below
 
 Topic 1 :- Arrays 
 Topic 2 :- Sorting 
+Topic 3 :- Searching
 Topic 3 :- Binary Search
 Topic 4 :- Binary Trees Basics
 Topic 5 :- Binary Search Tree
