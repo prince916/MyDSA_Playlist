@@ -7,7 +7,7 @@ Topic 3 :- Searching
 Topic 4 :- Binary Search
 Topic 5 :- Binary Trees Basics
 Topic 6 :- Binary Search Tree
-Topic 7 :- Unique Questions
+Topic 7 :- String
 Topic 8 :- Graph
 Topic 9 :- Dyanamic Programming
 Topic 10 :- Stack
