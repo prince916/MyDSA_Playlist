@@ -1,6 +1,3 @@
-
-
-
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -26,11 +23,13 @@ int main()
     cout<< "Enter the number of array elements : " << endl;
     cin>>n;
     int arr[n];
+    cout << "Enter the array elements : " << endl;
     for (int i = 0; i < n; i++)
     {
         cin>>arr[i];
     }
     selectionSort(arr,n);
+    cout << "The sorted Array is : " << endl;
     for (int i = 0; i < n; i++)
     {
         cout<<arr[i]<<" ";
