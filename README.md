@@ -1,5 +1,5 @@
 It includes DSA problem sums that I solved rrecently
-Some Basic and Important Topics are Mentioned below.........
+Some Basic and Important Topics are Mentioned below
 
 Topic 1 :- Arrays 
 Topic 2 :- Sorting 
