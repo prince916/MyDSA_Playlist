@@ -13,5 +13,3 @@ Topic 9 :- Dyanamic Programming
 Topic 10 :- Stack
 Topic 11 :- Queue
 Topic 12 :- Linked List
-
-New Topics are releasing soon...
