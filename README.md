@@ -1,4 +1,4 @@
-It includes DSA problem sums that I solved rrecently
+It includes DSA problem sums that I solved recently
 
 
 
