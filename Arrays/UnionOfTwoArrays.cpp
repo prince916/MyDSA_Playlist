@@ -33,7 +33,7 @@ int main()
         Union.push_back(it);
     }
     
-    cout << "Union of arr1 and arr2 is : " << endl;
+    cout << "Union of Arr1 and Arr2 is : " << endl;
 
     for (auto & val: Union)
     {
