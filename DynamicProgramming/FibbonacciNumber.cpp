@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// By Using Dynamic Programming Approach
+// By Using Dynamic Programming Approach....
 
 int f(int n, vector<int> &dp){
     if(n<=1) return n;
