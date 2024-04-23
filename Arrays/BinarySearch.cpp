@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-// checkout 
+
 
 int binarySearch(int arr[], int n, int key){
     int low=0;
