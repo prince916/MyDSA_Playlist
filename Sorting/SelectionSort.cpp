@@ -2,6 +2,8 @@
 using namespace std;
 
 
+// One of the sorting methods
+
 void selectionSort(int arr[], int n){
     for (int i = 0; i < n-2; i++)
     {
