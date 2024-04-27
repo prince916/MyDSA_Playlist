@@ -1,6 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// Search in a Rotated Array
+
 int search(vector<int>& arr, int n, int target)
 {
     int low = 0;
