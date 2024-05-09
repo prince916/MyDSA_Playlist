@@ -17,8 +17,8 @@ vector<int> twoSum(int n, vector<int> &arr, int target) {
 
 int main()
 {
-    int n = 5;
-    vector<int> arr = {2, 6, 5, 8, 11};
+    int n = 6;
+    vector<int> arr = {2, 6, 5, 8, 11, 9};
     int target = 19;
     vector<int> ans = twoSum(n, arr, target);
     cout << "This is the answer for variant 2: [" << ans[0] << ", "
