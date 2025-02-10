@@ -31,7 +31,7 @@ int findMin(vector<int>& arr)
 
 int main()
 {
-    vector<int> arr = {7, 8, 9, 1, 3, 3, 3, 5, 6};
+    vector<int> arr = {7, 8, 9, 1, 3, 3, 3, 5, 6}; // vector is used as an array that stores file
     int ans = findMin(arr);
     cout << "The index is at : " << ans << endl;
     return 0;
